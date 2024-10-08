@@ -6,11 +6,11 @@ print("Studi Kasus 1 : Menghitung Sisa Uang Setelah Belanja")
 print(52*"=")
 
 #variabel
-Uang = int(input("Masukkan uang pertama anda (Rp.) = "))
-Barang = int(input("Masukkan harga barang yang anda beli (Rp.) = "))
+Uang = int(input("Masukkan uang pertama anda (Rp) = "))
+Barang = int(input("Masukkan harga barang yang anda beli (Rp) = "))
 
 Sisa = Uang - Barang
 
 #output
-print(f"Sisa uang anda setelah membeli barang tersebut adalah Rp. {Sisa} \n")
+print(f"Sisa uang anda setelah membeli barang tersebut adalah Rp {Sisa} \n")
 print("Operasi Berhasil, Terimakasih Karena Sudah Mau Mencoba >.<")
