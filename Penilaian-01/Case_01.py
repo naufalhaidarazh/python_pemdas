@@ -1,3 +1,5 @@
+#Naufal Haidar Azhar 19.1A.21 (19240761)
+
 # (Soal) Seorang pengguna memiliki sejumlah uang. Dia membeli beberapa barang dengan harga yang sudah ditentukan. Buatlah program Pythonn yang menghitung sisa uang setelah belanja. Program meminta input total uang yang dimiliki dan total biaya belanja. Tampilkan sisa uang setelah pembelian
 
 #header

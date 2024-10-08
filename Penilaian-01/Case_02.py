@@ -1,3 +1,5 @@
+#Naufal Haidar Azhar 19.1A.21 (19240761)
+
 # (Soal) Buatlah program Python yang menghitung usia seseorang berdasarkan tahun lahir dan tahun sekarang, lalu menghitung dan menampilkan usia orang tersebut
 
 #header

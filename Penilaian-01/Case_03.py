@@ -1,3 +1,5 @@
+#Naufal Haidar Azhar 19.1A.21 (19240761)
+
 # (Soal) Harga tiket bioskop adalah Rp 50.000 per orang. Buatlah program Python yang menghitung total harga tiket yang harus dibayar berdasarkan jumlah tiket yang dibeli
 
 #header
